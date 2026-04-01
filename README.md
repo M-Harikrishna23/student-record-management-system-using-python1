@@ -12,5 +12,4 @@ This project is developed using Python to manage student records.
 - Display All Students
 - Count Students
 
-- ## Author
-- M Hari Krishna
+
